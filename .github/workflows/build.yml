@@ -8,7 +8,7 @@ jobs:
   apk:
     runs-on: self-hosted
     timeout-minutes: 3000
-    if: github.actor == 'robertsLando' && github.event.issue.url == 'https://api.github.com/repos/robertsLando/pkg-binaries/issues/5'
+    if: github.actor == 'n1ru4l' && github.event.issue.url == 'https://github.com/dungeon-revealer/pkg-binaries/issues/1'
     steps:
       - uses: actions/checkout@v2
       - uses: crazy-max/ghaction-docker-buildx@v1
