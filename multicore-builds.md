@@ -21,5 +21,5 @@ Times to run [build.sh](build.sh) (this includes the time to set up the build to
 
 | Build | Threads | Time |
 |:---|:--:| :--: |
-| node12.18.1-armv7-linux | 1 | 216m |
-| node12.18.1-arm64-linux | 1 | TBA |
+| node12.18.1-armv7-linux | 1 | 216 min |
+| node12.18.1-arm64-linux | 1 | 253 min |
